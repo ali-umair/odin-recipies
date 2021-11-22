@@ -7,3 +7,16 @@
 body {
   text-align: center;
 }
+
+h1,
+h3,
+p,
+ul,
+ol,
+img {
+  margin: 20px auto;
+}
+
+li {
+  margin-top: 10px;
+}
